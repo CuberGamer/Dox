@@ -1,0 +1,8 @@
+{
+  "name": "Trazo — Extensión Chrome IA para Google Docs",
+  "description": "Extensión de Chrome y estudio de redacción asistida para Google Docs con barra minimalista flotante, vista previa de cambios, clonado de estilos, plantillas y creación de tablas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
